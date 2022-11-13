@@ -1,6 +1,7 @@
 package Picante;
 
 import java.util.Date;
+import java.util.Objects;
 
 public class Mecanico {
 
@@ -26,10 +27,10 @@ public class Mecanico {
         this.nombre     = nombre;
         this.apellido   = apellido;
         this.documento  = documento;
-    }
+    };
 
     // METODOS
-    public void asignarSeniority(){
+    public void setSeniority(){
         if (this.antiguedad > 9) {
             this.seniority = "Experto";
         }
@@ -90,6 +91,9 @@ public class Mecanico {
     public void setPresentismo(boolean presentismo) {
         this.presentismo = presentismo;
     }
+    public void setSueldoMensual(double sueldoMensual) {
+        this.sueldoMensual = sueldoMensual;
+    }
 
     public String getNombre() {
         return this.nombre;
@@ -130,4 +134,6 @@ public class Mecanico {
     public double getSueldoBruto() {
         return this.sueldoBruto;
     }
+
+
 }
