@@ -21,6 +21,7 @@ public class Mecanico {
     double sueldoBruto;
 
     // CONSTRUCTOR
+    public Mecanico() {}
     public Mecanico(String nombre, String apellido, int documento) {
         this.nombre     = nombre;
         this.apellido   = apellido;

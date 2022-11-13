@@ -10,8 +10,8 @@ public abstract class Servicio {
     // CONSTRUCTOR
 
     // METODOS
-    public void sumarDeudaVehiculo() {
-        this.vehiculo.setDeudaVehiculo += costo;
+    public void sumarDeudaVehiculo(double monto) {
+        this.vehiculo.setDeudaVehiculo(monto);
     };
     public abstract void calcularCosto();
 

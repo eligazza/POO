@@ -13,7 +13,7 @@ public class Reparacion extends Servicio {
     // CONSTRUCTOR
     public Reparacion(int idServicio, Vehiculo vehiculo, Date fechaEntrada) {
         this.idServicio     = idServicio;
-        this.vehiculo       = vehiculo;
+        this.vehiculo       = new Vehiculo();
         this.fechaEntrada   = fechaEntrada;
     }
 
@@ -26,7 +26,7 @@ public class Reparacion extends Servicio {
         } else if (this.complejidad == "Media") {
             aux = 3500.00;
         } else { aux = 2000.00; };
-        if ( this.vehiculo.getDuenio().getVip()) {
+        if ( this.vehiculo.getDuenio().isVip()) {
             aux -= (aux*0.3);
         }
         this.costo = aux;
