@@ -84,6 +84,8 @@ public class Mecanico {
     }
     public void setAntiguedad(int antiguedad) {
         this.antiguedad = antiguedad;
+        this.setSeniority();
+        this.definirSueldoMensual();
     }
     public void setHorasExtra(int horasExtra) {
         this.horasExtra = horasExtra;
