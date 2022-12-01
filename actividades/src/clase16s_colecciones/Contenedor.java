@@ -1,3 +1,4 @@
+package clase16s_colecciones;
 public class Contenedor implements Comparable<Contenedor> {
 
     // ATRIBUTOS

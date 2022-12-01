@@ -1,3 +1,5 @@
+package clase16s_colecciones;
+
 import java.util.ArrayList;
 import java.util.Collections;
 
