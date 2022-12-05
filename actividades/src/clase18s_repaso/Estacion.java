@@ -1,4 +1,4 @@
-package clase18s;
+package clase18s_repaso;
 
 public class Estacion {
 
