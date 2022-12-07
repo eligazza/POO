@@ -15,14 +15,14 @@ public class Demo {
         simple01.setNombre("Mantenimiento");
         simple01.setCantidadDePersonas(4);
         simple01.setMontoPorPersona(120000);
-        System.out.println("Creamos Mantenimiento...");
+        //System.out.println("Creamos Mantenimiento...");
 
         // Creo unidad simple
         UnidadSimple simple02 = (UnidadSimple) creador.crearUnidad("simple");
         simple02.setNombre("Limpieza");
         simple02.setCantidadDePersonas(24);
         simple02.setMontoPorPersona(100000);
-        System.out.println("Creamos Limpieza...");
+        //System.out.println("Creamos Limpieza...");
 
         // Creo unidad compuesta
         UnidadCombinadaComposite comp01 = (UnidadCombinadaComposite) creador.crearUnidad("compuesta");
@@ -30,12 +30,13 @@ public class Demo {
         comp01.agregarUnidad(simple01);
         comp01.agregarUnidad(simple02);
         comp01.setCoeficienteGlobal(3);
-        System.out.println("Creamos Servicios generales...");
+        //System.out.println("Creamos Servicios generales...");
 
         // Crear la empresa y meterle las unidades
         Empresa empresa = new Empresa();
-        empresa.agregarUnidad(comp01);
+        empresa.agregarUnidad(simple01);
+        empresa.agregarUnidad(simple02);
         empresa.mostrarUnidades();
+        }
 
-    }
 }

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af500ed6-8923-4c4f-a042-5b78c25162e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/actividades/examenFinal/GazzaElias/src/Barco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actividades/examenFinal/GazzaElias/src/Carga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actividades/examenFinal/GazzaElias/src/CargaFactoryMethodSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actividades/examenFinal/GazzaElias/src/CargaSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actividades/examenFinal/GazzaElias/src/ContenedorComposite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DH-Arrays/DH-Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO-10-2022/POO-10-2022.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO-10-2022/src/clase_08/extra/codigo/DemoHerencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO-10-2022/src/clase_08/extra/codigo/DemoHerencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actividades/actividades.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/actividades/src/clase24_preFinal/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/src/clase24_preFinal/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actividades/src/clase24_preFinal/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/src/clase24_preFinal/Empresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actividades/src/clase24_preFinal/UnidadCombinadaComposite.java" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/src/clase24_preFinal/UnidadCombinadaComposite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actividades/src/out/production/actividades/clase24_preFinal/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/src/out/production/actividades/clase24_preFinal/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actividades/src/out/production/actividades/clase24_preFinal/Empresa.class" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/src/out/production/actividades/clase24_preFinal/Empresa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actividades/src/out/production/actividades/clase24_preFinal/UnidadCombinadaComposite.class" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/src/out/production/actividades/clase24_preFinal/UnidadCombinadaComposite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacionParaParcial/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacionParaParcial/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacionParaParcial/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacionParaParcial/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacionParaParcial/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacionParaParcial/PreParcial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/PreParcial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacionParaParcial/PreParcial.zip" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/PreParcial.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacionParaParcial/diagrama.png" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/diagrama.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacionParaParcial/src/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/src/Estudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacionParaParcial/src/Examen.java" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/src/Examen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacionParaParcial/src/ExamenFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/src/ExamenFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacionParaParcial/src/ExamenParcial.java" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/src/ExamenParcial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacionParaParcial/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/GazzaElias.iml" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/GazzaElias.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/GazzaElias.png" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/GazzaElias.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/GazzaElias.zip" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/GazzaElias.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/out/production/GazzaElias/Arma.class" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/out/production/GazzaElias/Arma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/out/production/GazzaElias/ArmaCorta.class" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/out/production/GazzaElias/ArmaCorta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/out/production/GazzaElias/ArmaLarga.class" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/out/production/GazzaElias/ArmaLarga.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/out/production/GazzaElias/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/out/production/GazzaElias/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/out/production/GazzaElias/Policia.class" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/out/production/GazzaElias/Policia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/src/Arma.java" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/src/Arma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/src/ArmaCorta.java" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/src/ArmaCorta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/src/ArmaLarga.java" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/src/ArmaLarga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerParcial/src/Policia.java" beforeDir="false" afterPath="$PROJECT_DIR$/actividades/primerParcial/src/Policia.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2IZN4a6TUuy72tDpfEKlUzEO4la" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/POO"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\POO\actividades" />
+      <recent name="C:\POO\examenFinal" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af500ed6-8923-4c4f-a042-5b78c25162e3" name="Changes" comment="" />
+      <created>1670384954541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670384954541</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

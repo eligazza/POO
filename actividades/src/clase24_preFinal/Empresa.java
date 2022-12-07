@@ -18,7 +18,7 @@ public class Empresa {
     }
     public void mostrarUnidades() {
         for (Unidad u: this.unidades) {
-            System.out.println(u.toString());
+            System.out.println(u.getNombre() + " por $" + u.calcularMonto());
         }
     }
 

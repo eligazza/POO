@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DH-Arrays/DH-Arrays.iml" filepath="$PROJECT_DIR$/DH-Arrays/DH-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actividades/examenFinal/GazzaElias/GazzaElias.iml" filepath="$PROJECT_DIR$/actividades/examenFinal/GazzaElias/GazzaElias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO.iml" filepath="$PROJECT_DIR$/.idea/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO-10-2022/POO-10-2022.iml" filepath="$PROJECT_DIR$/POO-10-2022/POO-10-2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actividades/actividades.iml" filepath="$PROJECT_DIR$/actividades/actividades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actividades/src/actividades1.iml" filepath="$PROJECT_DIR$/actividades/src/actividades1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actividades/src/clase17s_excepciones/clase17s_excepciones.iml" filepath="$PROJECT_DIR$/actividades/src/clase17s_excepciones/clase17s_excepciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actividades/ejercitacionParaParcial/ejercitacionParaParcial.iml" filepath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/ejercitacionParaParcial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actividades/primerParcial/primerParcial.iml" filepath="$PROJECT_DIR$/actividades/primerParcial/primerParcial.iml" />
+    </modules>
+  </component>
+</project>

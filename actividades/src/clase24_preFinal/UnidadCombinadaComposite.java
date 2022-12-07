@@ -26,10 +26,6 @@ public class UnidadCombinadaComposite extends Unidad {
         }
         return acumulador * this.coeficienteGlobal ;
     }
-    @Override
-    public String toString() {
-        return this.getNombre().toUpperCase() + unidades;
-    }
 
     // GETTERS & SETTERS
     public ArrayList<Unidad> getUnidades() {
