@@ -9,7 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/actividades/actividades.iml" filepath="$PROJECT_DIR$/actividades/actividades.iml" />
       <module fileurl="file://$PROJECT_DIR$/actividades/src/actividades1.iml" filepath="$PROJECT_DIR$/actividades/src/actividades1.iml" />
       <module fileurl="file://$PROJECT_DIR$/actividades/src/clase17s_excepciones/clase17s_excepciones.iml" filepath="$PROJECT_DIR$/actividades/src/clase17s_excepciones/clase17s_excepciones.iml" />
-      <module fileurl="file://$PROJECT_DIR$/actividades/ejercitacionParaParcial/ejercitacionParaParcial.iml" filepath="$PROJECT_DIR$/actividades/ejercitacionParaParcial/ejercitacionParaParcial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actividades/src/ejercitacionParaParcial/ejercitacionParaParcial.iml" filepath="$PROJECT_DIR$/actividades/src/ejercitacionParaParcial/ejercitacionParaParcial.iml" />
       <module fileurl="file://$PROJECT_DIR$/actividades/primerParcial/primerParcial.iml" filepath="$PROJECT_DIR$/actividades/primerParcial/primerParcial.iml" />
     </modules>
   </component>
